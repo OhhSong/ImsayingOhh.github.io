@@ -1,5 +1,5 @@
 #footer{
-    background: transparent;
+    background: transparent !important;
 }
 
 #footer-wrap{
@@ -44,7 +44,7 @@ img {
 }
 
 ::-webkit-scrollbar-corner {
-    background-color: transparent !important;
+    background-color: transparent ;
 }
 
 ::-moz-selection {

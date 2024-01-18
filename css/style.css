@@ -44,7 +44,7 @@ img {
 }
 
 ::-webkit-scrollbar-corner {
-    background-color: transparent;
+    background-color: transparent !important;
 }
 
 ::-moz-selection {

@@ -4713,7 +4713,7 @@ h1.page-title + .tag-cloud-list {
   padding-right: 4px;
 }
 #waline-wrap textarea {
-  background: url("dark") 100% 100% no-repeat;
+  background: url("auto") 100% 100% no-repeat;
 }
 #waline-wrap textarea:focus {
   background-image: none;
